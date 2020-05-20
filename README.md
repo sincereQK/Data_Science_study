@@ -3,7 +3,15 @@ studying data science
 
 This project was made to study Data Science class(0010086002) at Incheon National University.
 
-Textbook and data that I used for the class are as follows.
+The programs used in the class were as follows:
+- Python
+- Anaconda3 Jupyter notebook
+- CUDA Toolkit 10.1
+- PyTorch
+- Google Colab
+
+
+Textbook that I used for the class are as follows:
 
 1. 밑바닥부터 시작하는 데이터 과학 2판, 조엘 그루스 지음 | 김한결 , 하성주 , 박은정 옮김 | 프로그래밍인사이트 | 2020년 3월.
 https://github.com/insightbook/Data-Science-from-Scratch
